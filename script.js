@@ -44,9 +44,9 @@ const impeachTrumpSplice = function (array) {
     return presidents;
 }
 
-//console.log(impeachTrumpSlice(presidents)); // ["Obama", "Bush", "Clinton"]
-//console.log(impeachTrumpSplice(presidents)); // ["Obama", "Bush", "Clinton"]
-//console.log(presidents);
+console.log(impeachTrumpSlice(presidents)); // ["Obama", "Bush", "Clinton"]
+console.log(impeachTrumpSplice(presidents)); // ["Obama", "Bush", "Clinton"]
+console.log(presidents);
 
 //F
 
